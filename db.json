@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Cuando usar Let, var y const",
       "url": "https://www.youtube.com/watch?v=PztCEdIJITY&t",
-      "thumbnail": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qK3Zjt_Y4Di7_0Hv5sJjrvkosQ",
+      "thumbnail": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg",
       "description": "A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
       "category": "Front End"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "¿ Qué es JavaScript",
       "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t",
-      "thumbnail": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
+      "thumbnail": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg",
       "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
       "category": "Front End"
     },
@@ -33,10 +33,18 @@
       "category": "Back End"
     },
     {
+      "id": 5,
+      "title": "La magia detrás de Java",
+      "url": "https://www.youtube.com/watch?v=GrEO8nZzyZM",
+      "thumbnail": "https://i.ytimg.com/vi/GrEO8nZzyZM/hqdefault.jpg",
+      "description": "Sabemos que el ecosistema de Java es una sopa de letras con varias siglas, y la JVM (Java Virtual Machine) es una de ellas. En este video, nuestra instructora Ellen Pimentel explica su rol y características y es más simple que la magia, es decir, de lo que uno imagina.",
+      "category": "Back End"
+    },
+    {
       "id": 6,
       "title": "Simplificando tu código en Java: Conoce los enum",
       "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
-      "thumbnail": "https://i.ytimg.com/vi/EoPvlE85XAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPs_pZWDQJClLViVgQYyfBgD8qkw",
+      "thumbnail": "https://i.ytimg.com/vi/EoPvlE85XAQ/hqdefault.jpg?",
       "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
       "category": "Back End"
     },
@@ -44,7 +52,7 @@
       "id": 7,
       "title": "¿Qué son las Soft Skills?",
       "url": "https://www.youtube.com/watch?v=vhwspfvI52k&t",
-      "thumbnail": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
+      "thumbnail": "https://i.ytimg.com/vi/vhwspfvI52k/hqdefault.jpg",
       "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
       "category": "Innovación y Gestión"
     },
@@ -55,6 +63,38 @@
       "thumbnail": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685580828/hze70ejhyfzdw74k8tk8.jpg",
       "description": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
       "category": "Innovación y Gestión"
+    },
+    {
+      "id": 9,
+      "title": "Empresas que aprenden",
+      "url": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+      "thumbnail": "https://i.ytimg.com/vi/mwNfWRsDDWE/hqdefault.jpg",
+      "description": "El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa. Pero, ¿tienes alguna idea de cómo hacerse esto? En este Alura+, Priscila Stuani habla sobre el papel de la organización en el proceso de aprendizaje de sus profesionales.",
+      "category": "Innovación y Gestión"
+    },
+    {
+      "id": 10,
+      "title": "Aprendiendo a utilizar Figma",
+      "url": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "thumbnail": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685820371/g05mariipqt8dttkzxkb.jpg",
+      "description": "En este Alura+ Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "category": "Front End"
+    },
+    {
+      "id": 11,
+      "title": "Box Model y Box sizing",
+      "url": "https://www.youtube.com/watch?v=ts9qfCKamKg&t=5s",
+      "thumbnail": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685567216/yc9xhaj1airravb07kdh.jpg",
+      "description": "En este Alura+ nuestra instructora front-end, Jeanmarie Quijada, nos ayudará a entender que es Box Model, uno de los conceptos fundamentales para la construcción correcta de layouts de páginas web.",
+      "category": "Front End"
+    },
+    {
+      "id": 12,
+      "title": "¿Por qué utilizar Java actualmente?",
+      "url": "https://www.youtube.com/watch?v=3kNuK-XAHEY",
+      "thumbnail": "https://i.ytimg.com/vi/3kNuK-XAHEY/hqdefault.jpg",
+      "description": "Java es una de las más conocidas tecnologías y se utiliza en millones de aplicaciones de software en todo el mundo. En este video, hablaremos de lo último en el lenguaje y la plataforma Java y de por qué debería ser tu elección para un próximo proyecto.",
+      "category": "Back End"
     }
   ],
   "categories": [
